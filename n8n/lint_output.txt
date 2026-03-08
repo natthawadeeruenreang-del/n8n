@@ -1,0 +1,19 @@
+﻿
+C:\Users\sweetdream\Downloads\n8n\github\n8n\n8n\entities\Notification.js
+  2:9  error  Parsing error: Unexpected token :
+
+C:\Users\sweetdream\Downloads\n8n\github\n8n\n8n\entities\RoomBooking.js
+  2:9  error  Parsing error: Unexpected token :
+
+C:\Users\sweetdream\Downloads\n8n\github\n8n\n8n\entities\StaffAccount.js
+  2:9  error  Parsing error: Unexpected token :
+
+C:\Users\sweetdream\Downloads\n8n\github\n8n\n8n\src\components\booking\NotificationBell.jsx
+  3:16  error  'X' is defined but never used  unused-imports/no-unused-imports
+
+C:\Users\sweetdream\Downloads\n8n\github\n8n\n8n\src\lib\AuthContext.js
+  132:5  error  Parsing error: Unexpected token <
+
+Γ£û 5 problems (5 errors, 0 warnings)
+  1 error and 0 warnings potentially fixable with the `--fix` option.
+

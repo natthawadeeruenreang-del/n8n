@@ -1,0 +1,47 @@
+﻿
+> base44-app@0.0.0 build
+> vite build
+
+node.exe : [31mfailed to 
+load config from C:\Users\swe
+etdream\Downloads\n8n\github\
+n8n\n8n\vite.config.js[39m
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: ([31mfa  
+  iled to ....config.js[3   
+ 9m:String) [], RemoteExc    
+eption
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+[31merror during build:
+Error: config must export or 
+return an object.
+    at loadConfigFromFile (fi
+le:///C:/Users/sweetdream/Dow
+nloads/n8n/github/n8n/n8n/nod
+e_modules/vite/dist/node/chun
+ks/dep-D4NMHUTW.js:49261:13)
+    at async resolveConfig (f
+ile:///C:/Users/sweetdream/Do
+wnloads/n8n/github/n8n/n8n/no
+de_modules/vite/dist/node/chu
+nks/dep-D4NMHUTW.js:48752:24)
+    at async createBuilder (f
+ile:///C:/Users/sweetdream/Do
+wnloads/n8n/github/n8n/n8n/no
+de_modules/vite/dist/node/chu
+nks/dep-D4NMHUTW.js:46736:18)
+    at async CAC.<anonymous> 
+(file:///C:/Users/sweetdream/
+Downloads/n8n/github/n8n/n8n/
+node_modules/vite/dist/node/c
+li.js:862:23)[39m

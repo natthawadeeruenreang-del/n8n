@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Button } from "@/components/ui/button";
-import { Bell, X, CheckCircle, XCircle, Info } from "lucide-react";
+import { Bell, CheckCircle, XCircle, Info } from "lucide-react";
 import { format } from "date-fns";
 import { th } from "date-fns/locale";
 
